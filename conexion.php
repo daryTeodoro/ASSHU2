@@ -1,4 +1,4 @@
-<!--Cadena de conexion a la Base de Datos-->
+<!--Cadena de conexion a la Base de Datos Arquitectura-->
 <?php
 class Conexion extends PDO
 {
