@@ -18,10 +18,10 @@ session_start();
 		.Main{
 			height: 100vh;
 			display: flex;
-            align-self: center;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
+      align-self: center;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
 		}
 	</style>
 </head>

@@ -22,10 +22,10 @@ session_start();
 		.Main{
 			height: 100vh;
 			display: flex;
-      align-self: center;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
+            align-self: center;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
 		}.navbar{
 			vertical-align: center;
 			box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
